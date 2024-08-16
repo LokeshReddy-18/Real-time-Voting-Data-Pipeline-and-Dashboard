@@ -43,6 +43,10 @@ Pandas: For data manipulation and analysis.
 Matplotlib: For visualizations such as bar charts, pie charts, and donut charts.
 Features
 
+## Reference
+Realtime Voting System | End-to-End Data Engineering Project : https://www.youtube.com/watch?v=X-JnC9daQxE&t=2393s
+
+
 ## Conclusion
 This project provides a robust real-time data pipeline and interactive dashboard for monitoring and analyzing election data. It leverages the power of Kafka and Spark for data processing and Streamlit for delivering an engaging user experience.
 
